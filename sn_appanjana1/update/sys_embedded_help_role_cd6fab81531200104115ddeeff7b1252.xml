@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_appanjana1.table2_user" name="sn_appanjana1.table2_user">c56f2b81531200104115ddeeff7b12b6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-11 03:19:35</sys_created_on>
+        <sys_id>cd6fab81531200104115ddeeff7b1252</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c56f2b81531200104115ddeeff7b12b6</sys_name>
+        <sys_package display_value="appanjana1" source="sn_appanjana1">4a2eeb01531200104115ddeeff7b1211</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appanjana1">4a2eeb01531200104115ddeeff7b1211</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cd6fab81531200104115ddeeff7b1252</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-11 03:19:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

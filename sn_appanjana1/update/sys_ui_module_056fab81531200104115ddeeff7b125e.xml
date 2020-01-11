@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table2">096fab81531200104115ddeeff7b125c</application>
+        <filter/>
+        <name>table2s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_appanjana1.table2_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-11 03:19:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>056fab81531200104115ddeeff7b125e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table2s</sys_name>
+        <sys_package display_value="appanjana1" source="sn_appanjana1">4a2eeb01531200104115ddeeff7b1211</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appanjana1">4a2eeb01531200104115ddeeff7b1211</sys_scope>
+        <sys_update_name>sys_ui_module_056fab81531200104115ddeeff7b125e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-11 03:19:35</sys_updated_on>
+        <table>sn_appanjana1_table2</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
